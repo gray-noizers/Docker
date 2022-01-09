@@ -24,6 +24,7 @@
             </div>
             <div class="card-footer">
                 <span>
+                    
                     作品名:{{$posts->commic_title}}
                     <!--  いずれここもレビューに関連づけていきます  -->
                 </span>
